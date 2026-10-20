@@ -1,0 +1,14 @@
+﻿# Build output
+target/
+
+# Client data and database backups: member names, phone numbers, balances. These must never be uploaded.
+DOCS/
+backups/
+*.sql
+*.xlsx
+
+# Editor, tool and log files
+.vscode/
+.idea/
+.claude/
+*.log
