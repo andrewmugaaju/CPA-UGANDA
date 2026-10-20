@@ -1,0 +1,9 @@
+target/
+backups/
+DOCS/
+.git/
+.vscode/
+.idea/
+*.sql
+*.xlsx
+*.log
